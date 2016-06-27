@@ -6,9 +6,9 @@
     "@gray": "lighten(@gray-base, 33.5%)",
     "@gray-light": "lighten(@gray-base, 46.7%)",
     "@gray-lighter": "lighten(@gray-base, 93.5%)",
-    "@brand-primary": "darken(#428bca, 6.5%)",
+    "@brand-primary": "#eb5332",
     "@brand-success": "#5cb85c",
-    "@brand-info": "#5bc0de",
+    "@brand-info": "#031a82",
     "@brand-warning": "#f0ad4e",
     "@brand-danger": "#d9534f",
     "@body-bg": "#fff",
@@ -48,9 +48,9 @@
     "@padding-xs-horizontal": "5px",
     "@line-height-large": "1.3333333",
     "@line-height-small": "1.5",
-    "@border-radius-base": "4px",
-    "@border-radius-large": "6px",
-    "@border-radius-small": "3px",
+    "@border-radius-base": "0px",
+    "@border-radius-large": "0px",
+    "@border-radius-small": "0px",
     "@component-active-color": "#fff",
     "@component-active-bg": "@brand-primary",
     "@caret-width-base": "4px",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=b406847b52efd8327e5ab07c0cffedaa"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=58bca40157cf8a86082f49f9f4b59b12"
 }
